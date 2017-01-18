@@ -1,5 +1,5 @@
 # Scott Graham
-A little bit about me - international man of mystery
+Machine Learning Engineer - build, break, improve, repeat
 
 ## Theme Used
 
